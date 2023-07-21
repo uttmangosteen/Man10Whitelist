@@ -1,0 +1,4 @@
+name: Man10Whitelist
+version: '${project.version}'
+main: io.github.uttmangosteen.man10whitelist.Man10Whitelist
+api-version: '1.19'
